@@ -1,0 +1,1 @@
+with open ("C:/Users/HOME/Desktop/01-PJT-01/2회차/김나형data/fruits.txt")
